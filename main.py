@@ -1,6 +1,6 @@
 def main():
     def firstFunction():
-        print("Hello World!")
+        print("Welcome to our YouTube Channel")
         
     def secondFunction():
         num1 = int(input("Enter Number 1: "))
