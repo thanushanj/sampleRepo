@@ -16,10 +16,10 @@ def main():
         multiVal = num1 * num2
         divVal = num1 / num2
         
-        print("Addition =", addVal)
-        print("Subtraction =", subVal)
-        print("Multiplication =", multiVal)
-        print("Division =", divVal)
+        print(f"Addition = {addVal}")
+        print(f"Subtraction = {subVal}")
+        print(f"Multiplication = {multiVal}")
+        print(f"Division = {divVal}")
         
     firstFunction()
     secondFunction()
