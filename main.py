@@ -1,4 +1,7 @@
 class Calculator:
+    """
+    This is a Calculator class which provides basic arithmetic operations like addition, subtraction, multiplication and division.
+    """
     def add(self, x, y):
         return x + y
 
